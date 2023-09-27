@@ -35,7 +35,7 @@ of nature through mathematics.
 **Research Experience**
 ------------------------------------------------------------------------
 
-**Master's thesis project on "Reconstructing the inflaton potential from CMB anisotropy**
+**Master's thesis project on "Reconstructing the inflaton potential from CMB anisotropy**  
 Working on a Master's thesis project for the reconstruction of the inflaton potential from
 CMB anisotropy.
 With Prof. Tarun Souradeep, Director(RRI)
