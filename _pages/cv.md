@@ -21,16 +21,16 @@ of nature through mathematics.
 **Education**
 ------------------------------------------------------------------------
 
-|**Duration**           |**Program**                                                        |**CGPA**  |
-|:----------------------|:------------------------------------------------------------------|----------|
-| **08/2019 - present** | **BS-MS**                                                         |**9.74**  |
-|                       | Indian Institute of Science Education and Research(IISER), Mohali |          |
-|                       |                                                                   |          |
-| **04/2018 - 04/2019** | **Intermediate(CBSE Board)**                                      |**96.2%** |
-|                       | Buddha Public School, UP                                          |          |
-|                       |                                                                   |          |
-| **04/2016 - 04/2017** | **High School(ICSE Board)**                                       |**95.83%**|
-|                       | St. Norbert’s School, UP                                          |          |
+|**Duration**           |**Program**                                                               |**CGPA**  |
+|:----------------------|:-------------------------------------------------------------------------|----------|
+| **08/2019 - present** | **BS-MS**(Major:- Physics, Minor:- Astronomy & Astrophysics)             |**9.74**  |
+|                       | Indian Institute of Science Education and Research(IISER), Mohali, India |          |
+|                       |                                                                          |          |
+| **04/2018 - 04/2019** | **Intermediate(CBSE Board)**                                             |**96.2%** |
+|                       | Buddha Public School, UP, India                                          |          |
+|                       |                                                                          |          |
+| **04/2016 - 04/2017** | **High School(ICSE Board)**                                              |**95.83%**|
+|                       | St. Norbert’s School, UP, India                                          |          |
 
 **Research Experience**
 ------------------------------------------------------------------------
