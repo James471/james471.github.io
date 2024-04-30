@@ -39,7 +39,7 @@ of nature through mathematics.
 Working on a Master's thesis project for the reconstruction of the inflaton potential from
 CMB anisotropy.
 With Prof. Tarun Souradeep, Director(RRI)
-August 2023 - Present
+August 2023 - May 2024
 
 **Summer Project on “Low Mach MHD simulations in FLASH”**  
 Working on the implementation and testing of a new solver in FLASH code
