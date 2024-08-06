@@ -41,12 +41,6 @@ CMB anisotropy.
 With Prof. Tarun Souradeep, Director(RRI)
 August 2023 - May 2024
 
-**Summer Project on “Low Mach MHD simulations in FLASH”**  
-Working on the implementation and testing of a new solver in FLASH code
-for low Mach number Magnetohydrodynamical simulations.  
-With Assoc. Prof. Christoph Federrath, Australian National University  
-May 2023 - Present
-
 **Summer Project on “Quantizing Rigid Body Dynamics”**  
 Numerically and analytically studied the time evolution of Bloch
 coherent states using a Hamiltonian obtained through Geometric Quantization 
@@ -110,10 +104,6 @@ May 2021 - August 2021
 
 **Achievements and Awards**
 ------------------------------------------------------------------------
-
-- **Future Research Talent 2023 Awardee**  
-  (Travel award granted by the Australian National University to travel
-  to Australia and participate in a research project.)
 
 - **NIUS Camp 17.1**  
   (Summer camp organised by the Homi Bhaba Centre for Science Education,
